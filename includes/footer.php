@@ -1,5 +1,5 @@
 <?php
-    echo "<p>Copright &copy 2018-" . date("Y") . " Los Inc. </p>";
+    echo "<p>Copyright &copy 2018-" . date("Y") . " Los Inc. </p>";
     ?>
     </div>
 <!-- Option 2: jQuery, Popper.js, and Bootstrap JS-->
