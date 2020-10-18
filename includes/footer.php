@@ -1,4 +1,7 @@
+
+<a href="https://github.com/samurailos/php_primer" target="_blank" class="btn  btn-warning">My Github Link</a>
 <?php
+      
     echo "<p>Copyright &copy 2018-" . date("Y") . " Los Inc. </p>";
     ?>
     </div>
