@@ -24,7 +24,10 @@
         //Echo using double quotations and interpolation
         echo "<h1>My Name is: $name</h1>";
     ?>
+    
     <button type="button" class="btn btn-danger">CLICK ME!!</button>
+    <button type="button" class="btn btn-primary">CLICK ME!!</button>
+    <button type="button" class="btn btn-success">CLICK ME!!</button>
     <?php
         require 'includes/footer.php' 
      ?>
