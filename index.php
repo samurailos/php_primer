@@ -16,7 +16,7 @@
         echo "<br/>";
         //declare variable, variables need a '$'
         $name = 'Llowlyn Smith';
-        $age = '33';
+        $age = '32';
         //echo variable
         echo $name;
         echo '<h1>My name is: '. $name.'</h1>';
@@ -28,6 +28,7 @@
     <button type="button" class="btn btn-danger">CLICK ME!!</button>
     <button type="button" class="btn btn-primary">CLICK ME!!</button>
     <button type="button" class="btn btn-success">CLICK ME!!</button>
+    <a href="https://www.heroku.com" target="_blank" class="btn  btn-warning">Heroku.com</a>
     <?php
         require 'includes/footer.php' 
      ?>
